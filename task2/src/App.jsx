@@ -1,8 +1,10 @@
 import React from 'react'
+// import CourseCards from './CourseCards'
+import CourseDashboard from './CourseCards'
 
 const App = () => {
   return (
-    <div>App</div>
+    <CourseDashboard/>
   )
 }
 

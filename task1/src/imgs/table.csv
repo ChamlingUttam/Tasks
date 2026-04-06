@@ -1,0 +1,8 @@
+Action,Viewer,Analyst,Admin
+View own records,Yes,Yes,Yes
+View dashboard summary,Yes,Yes,Yes
+Create record,No,Yes,Yes
+Update own record,No,Yes,Yes
+Delete record,No,No,Yes
+View all users,No,No,Yes
+Manage users (role/status),No,No,Yes
